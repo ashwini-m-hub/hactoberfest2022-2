@@ -1,0 +1,2 @@
+a="namaste"
+print(a)
